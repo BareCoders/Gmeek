@@ -1,10 +1,10 @@
 {
-    "title":"HelloPages",
-    "subTitle":"HelloPages，MicroBlog，weibo,微博",
+    "title":"Bare Coders",
+    "subTitle":"Bare Coders，MicroBlog，weibo,微博",
     "avatarUrl":"honor.svg",
     "faviconUrl":"avatar.svg",
     "i18n":"CN",
-    "homeUrl":"https://hellopages.github.io/homepage",
+    "homeUrl":"https://BareCoders.github.io/gmeeks",
     "startSite":"06/27/2018",
     "onePageListNum":15,
     "singlePage":["link","bookmark","about"],
